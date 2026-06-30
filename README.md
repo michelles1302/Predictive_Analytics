@@ -1,4 +1,4 @@
-# Predictive_Analytics# Predictive Analytics Using Historical Data
+# Predictive Analytics Using Historical Data
 
 ## Project Overview
 This project builds a predictive analytics model using historical sales data to forecast future sales trends.
